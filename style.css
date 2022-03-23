@@ -1,0 +1,153 @@
+.Ha{
+	margin-left:90px;
+	margin-top:-80px;
+	color:darkblue;
+	font-weight:bold;
+	font-size:14px;
+}
+.Hb{
+	margin-left:90px;
+	font-weight:bold;
+	font-size:10px;
+	
+}
+.Hc{
+	margin-top:-78px;
+	margin-left:620px;
+}
+
+ul{
+	
+	list-style-type:none;
+	margin-left:350px;
+	
+	
+}
+ul li{	border:solid 1px;
+	display:inline-block;
+	
+	padding:5px;
+	border-radius:5px;
+	
+	position:relative;
+	
+}
+ul ul{
+	display:none;
+	}
+ul li table{
+	
+	display:none;}
+
+ul li:hover ul{
+	display:block;	
+		
+	
+}
+
+
+ul li:hover table
+{	
+	display:block;
+	
+	
+}
+.B img{
+	display:inline-block;}
+
+.card table{
+	display:inline-block;
+	border:solid 4px white ;
+	width:360px;
+	height:180px;
+	background-color:white;
+
+}
+
+.t1{
+	margin-left:100px;
+}
+.t2{
+	margin-left:200px;}	
+.t3{
+	margin-left:100px;}	
+
+.t4{
+	margin-left:200px;}
+.card{
+	background-color:#ddd;}
+.circle1{
+	border:solid 8px white;
+	border-radius:50%;
+	height:100px;
+	width:100px;
+	margin-top:-330px;
+	margin-left:40px;}
+.circle2{border:solid 8px white;
+	border-radius:50%;
+	height:100px;
+	width:100px;
+	margin-top:-110px;
+	margin-left:590px;
+}
+.circle3{border:solid 8px white;
+	border-radius:50%;
+	height:100px;
+	width:100px;
+	margin-top:60px;
+	margin-left:40px;
+}
+.circle4{border:solid 8px white;
+	border-radius:50%;
+	height:100px;
+	width:100px;
+	margin-top:-120px;
+	margin-left:600px;}
+.box{
+	display:inline-block;
+	margin-top:30px;
+	position:realtive;
+	transition:transform 0.3s;}
+.box:hover{
+	cursor:pointer;
+	transform:translateY(-20px);}
+.box1{
+	border:solid 1px;
+	width:270px;
+	height:200px;
+	
+	background-image:url('1.jpg');	
+	background-size:cover;
+	color:red;
+	opacity:90%;
+}
+
+.box2{
+	border:solid 1px;
+	color:red;
+	width:300px;
+	height:200px;
+	background-image:url('b2.jpg');
+	background-size:cover;}
+	
+.box3{
+	border:solid 1px;
+	width:300px;
+	color:red;
+	height:200px;
+	background-image:url('b3.jpg');	
+	background-size:cover;
+	}
+.box4{
+	border:solid 1px;
+	width:300px;
+	color:red;
+	height:200px;
+	background-image:url('b4.jpg');
+	background-size:cover;}
+	
+.footer{
+	color:white;
+	background-color:#2B3856;
+	height:150px;}
+
